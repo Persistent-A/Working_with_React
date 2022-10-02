@@ -11,6 +11,12 @@
       "day": "Sep 25th at 10AM",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "Start React App",
+      "day": "2 Oct 5pm",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
